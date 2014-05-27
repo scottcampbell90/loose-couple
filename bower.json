@@ -1,0 +1,12 @@
+{
+    "name": "loose_coupling",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular": "latest",
+        "angular-resource": "latest",
+        "underscore": "latest",
+        "bootstrap": "latest",
+        "autofill-event": "latest"
+    },
+    "private": true
+}

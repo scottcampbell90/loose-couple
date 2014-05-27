@@ -1,0 +1,10 @@
+#posts-stream {
+    margin-top: 20px;
+    background: #f1f1f1;
+    border: 1px dotted #dedede;
+    overflow: auto;
+    webkit-box-shadow: 2px 2px 3px #dedede;
+    -moz-box-shadow: 2px 2px 3px #dedede;
+    box-shadow: 2px 2px 3px #dedede;
+    height:80vh;
+}
